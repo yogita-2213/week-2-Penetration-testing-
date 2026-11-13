@@ -166,4 +166,4 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![image alt](https://github.com/yogita-2213/week-2-Penetration-testing-/blob/964209fa7b90aca295b4f74d5a47a8e3e016271d/Screenshot%202026-11-13%20171104.png)
 
-![image alt](
+![image alt](https://github.com/yogita-2213/week-2-Penetration-testing-/blob/c55749678fe9cd934096dffebcc4c60405ee2d23/Screenshot%202026-11-13%20171120.png)

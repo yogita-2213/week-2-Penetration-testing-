@@ -174,3 +174,5 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 
 ![image alt](https://github.com/yogita-2213/week-2-Penetration-testing-/blob/383cfaa0085f1b0707359ae7db4b4770becad243/Screenshot%202026-11-13%20170443.png)
+
+![image alt](https://github.com/yogita-2213/week-2-Penetration-testing-/blob/02e9dace345f5699826f5f323456fad8e72d5596/Zenmap%20Network%20Scan%20Results.png)
